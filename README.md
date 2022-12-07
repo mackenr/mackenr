@@ -1,4 +1,4 @@
-### Data friends, welcome to my GitHub, my name is Richard but my friends call me Rich :)
+### Welcome to my GitHub, my name is Richard &mdash; my friends call me Rich :)
 ---
 ### About:
 
