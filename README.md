@@ -1,6 +1,6 @@
 ### Welcome to my GitHub. My name is Richard &mdash; my friends call me Rich :)
 ---
-### About:
+### Bio:
 
 A proud Naval Special Operations Veteran (Diver) with an insatiable intellectual curiosity, I add value through my diverse background in engineering and risk assessment. My analytical proclivities, degree in computer engineering (AA) and certification in data science guide me towards objective truth through data.
  
