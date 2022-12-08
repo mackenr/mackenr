@@ -19,7 +19,7 @@ I am a strong proponent of ubiquity of data disciplines. It is the convergence o
 
 >
 >   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | 
->   Machine Learning | Natural Language Processing | Data Storytelling | ETL | Dashboards | Plotly | more coming soon ...
+>   Machine Learning | Natural Language Processing | Data Storytelling | ETL | Dashboards | Plotly | (more coming soon) ...
 >   
 
 
