@@ -24,8 +24,9 @@ I am a strong proponent of the ubiquitous utility of data disciplines. It is the
 
 
 --- 
-#### Enjoy the repos and please excuse any mess, they are functional but I am working on updating them for aesthetics. 
-#### I would point you in the direction of the folders with project in the description but feel free to look around.
+### Repos:
+Enjoy the repos and please excuse any mess, they are functional but I am working on updating them for aesthetics. 
+I would point you in the direction of the folders with project in the description but feel free to look around.
 
 
 <!---
