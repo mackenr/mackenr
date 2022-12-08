@@ -2,7 +2,7 @@
 ---
 ### Bio:
 
-A proud Naval Special Operations Veteran (Diver) with an insatiable intellectual curiosity, I add value through my diverse background in engineering and risk assessment. My analytical proclivities, degree in computer engineering (AA) and certification in data science guide me towards objective truth through data.
+A proud Naval Special Operations Veteran (Diver) with an insatiable intellectual curiosity, I add value through my diverse background in engineering and risk assessment. My analytical proclivities, degree in computer engineering (AA) and certification in data science guide me towards objective truth &mdash; verifiable by data
  
 I am a strong proponent of the ubiquitous utility of data disciplines. It is the convergence of my military and academic histories, which are the intrinsic drivers of my passion for using data and mathematical tools to optimize risk, guide decisions and solve complex problems.
 
