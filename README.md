@@ -28,7 +28,7 @@ I am a strong proponent of the ubiquitous utility of data disciplines. It is the
 ### Data related technical skills:
 
 >
->   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | 
+>   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | Regex|
 >   Machine Learning | Natural Language Processing | Data Storytelling | ETL | Dashboards | Plotly | (more coming soon) ...
 
 ---
