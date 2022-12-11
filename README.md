@@ -25,26 +25,27 @@ I am a strong proponent of the ubiquitous utility of data disciplines. It is the
 
 ---
 
-### Clearance:
-
-[Inactive TS-SCI clearance]
-
----
- 
-
-
 ### Data related technical skills:
 
 >
 >   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | 
 >   Machine Learning | Natural Language Processing | Data Storytelling | ETL | Dashboards | Plotly | (more coming soon) ...
->   
+
+---
+
+### Clearance:
+
+[Inactive TS-SCI clearance]
+
+
+ 
 
 
 --- 
 ### Repos:
 Enjoy the repos and please excuse any mess, they are functional but I am working on updating them for aesthetics. 
 I would point you in the direction of the folders with project in the description but feel free to look around.
+
 
 
 <!---
