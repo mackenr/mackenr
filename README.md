@@ -9,19 +9,19 @@ I am a strong proponent of the ubiquitous utility of data disciplines. It is the
 ---
 
 ### Data Related Interests:
-- Optimization
+- #### Optimization
   - The concept of optimization is a philosophical motivation for my interest in data science and coding in general.
   - Metaheuristics like Ant colony optimization and Genetic algorithms are fascinating to me.
-- Data Wrangling
+- #### Data Wrangling
   - Web Scraping
   - Regex
   - Cleaning
   > Overall I enjoy finding the patterns and solving the problems involved in acquiring and cleaning data. This seems to be the most interesting and useful part as the further steps in the data pipeline seem to be far relatively generalizable from that point on.
  
-- Generalizable pipelines
- > After Data is properly wrangled, I enjoy creating and making subtle tweaks to the pipeline. The most immediately rewarding process is seeing your model's results improve.
+- #### Generalizable pipelines
+  - After Data is properly wrangled, I enjoy creating and making subtle tweaks to the pipeline. The most immediately rewarding process is seeing your model's results improve.
 
->Ultimately, I am interested in creating the most efficient systems possible subject to real world constraints, in order to provide the most objective guidance for decision-making.
+> Ultimately, I am interested in creating the most efficient systems possible subject to dynamic real world constraints, in order to provide the most objective guidance for decision-making.
 
 ---
 
