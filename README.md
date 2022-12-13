@@ -15,7 +15,7 @@ A well traveled and proud Naval Special Operations Veteran (Diver), I add value 
   - Web Scraping
   - Regex
   - Cleaning
-  > Overall I enjoy finding the patterns and solving the problems involved in acquiring and cleaning data. This seems to be the most interesting and useful part as the further steps in the data pipeline seem to be far relatively generalizable from that point on.
+  > Overall I enjoy finding the patterns and solving the problems involved in acquiring and cleaning data. This seems to be the most interesting and useful part as the further steps in the data pipeline seem relatively generalizable from that point on.
  
 - #### Generalizable pipelines
   - After Data is properly wrangled, I enjoy creating and making subtle tweaks to the pipeline. The most immediately rewarding process is seeing your model's results improve.
