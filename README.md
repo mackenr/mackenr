@@ -32,7 +32,8 @@
 
 A well traveled and proud Naval Special Operations Veteran (Diver), I add value through my diverse background in engineering and risk assessment. My analytical proclivities, degree in computer engineering (AA) and certification in data science guide me towards objective truth — one verifiable by data. I am a strong advocate of the ubiquitous utility of data disciplines. It is the convergence of my military history and intellectual curiosity, which beget my passion for using data and mathematical tools to optimize risk, guide decisions and solve complex problems
 
-[[Home](#home)]
+[[top](#home)]
+
 ---
 
 ### Data Related Interests: 
@@ -52,7 +53,7 @@ A well traveled and proud Naval Special Operations Veteran (Diver), I add value 
 
 > Ultimately, I am interested in creating the most efficient systems possible subject to dynamic real world constraints, in order to provide the most objective guidance for decision-making.
 
-[[Home](#home)]
+[[top](#home)]
 
 ---
 
@@ -82,7 +83,7 @@ A well traveled and proud Naval Special Operations Veteran (Diver), I add value 
 >   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | Regex |
 >   Machine Learning | Natural Language Processing | Data Storytelling | ETL | Dashboards | Plotly | (more coming soon) ...
 
-[[Home](#home)]  
+[[top](#home)]  
   
 ---
 
@@ -98,7 +99,8 @@ A well traveled and proud Naval Special Operations Veteran (Diver), I add value 
 Enjoy the repos and please excuse any mess, they are functional but I am working on updating them for aesthetics. 
 I would point you in the direction of the folders with project in the description but feel free to look around.
 
-[[Home](#home)]  
+[[top](#home)]  
+  
 ---
 ### Hobbies:
 <a name="hobbies"></a>
