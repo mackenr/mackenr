@@ -38,18 +38,13 @@
 ### Data Related Interests: 
 <a name="data_interests"></a>
 
-<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/datarelatedinterests.png">
+<img width="1049" alt="interests" src="https://github.com/mackenr/mackenr/blob/main/datarelatedinterests.png">
+<img width="1049" alt="interests" src="https://github.com/mackenr/mackenr/blob/main/interests.png">
 
-Add files via upload
-Dec 14, 2022
-interests.png
-Add files via upload
-Dec 14, 2022
-readmebanner.png
-Add files via upload
-Dec 13, 2022
-techskills.png
-Add files via upload 
+
+
+
+
 - #### Optimization
   - The concept of optimization is a philosophical motivation for my interest in data science and coding in general.
   - Metaheuristics like Ant colony optimization and Genetic algorithms are fascinating to me.
@@ -72,7 +67,6 @@ Add files via upload
 <a name="technical_skills"></a>
 
 
-
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/white" />
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/white"/>
@@ -90,9 +84,12 @@ Add files via upload
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white"/>
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/sympy/white"/>
 
->
+<!-- >
 >   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | Regex |
 >   Machine Learning | Natural Language Processing | Data Storytelling | ETL | Dashboards | Plotly | (more coming soon) ...
+   -->
+ 
+<img width="1049" alt="skills" src="https://github.com/mackenr/mackenr/blob/main/techskills.png">
 
 [[top](#home)]  
   
