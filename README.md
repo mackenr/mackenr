@@ -1,3 +1,5 @@
+<div align="center">
+
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/readmebanner.png">
 
 <a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-D14836?plastic&logo=gmail&logoColor=white)</a>
@@ -5,7 +7,6 @@
 <a href="https://www.kaggle.com/richardmacken">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?plastic&logo=kaggle&logoColor=white)</a>
 <a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?plastic&logo=HackerRank&logoColor=#white)</a>
 <a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?plastic&logo=LeetCode&logoColor=#d16c06)</a>
-[![](https://visitcount.itsvg.in/api?id=mackenr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -125,7 +126,10 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
 
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=mackenr&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+  
+</div>  
 <!---
 mackenr/mackenr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
