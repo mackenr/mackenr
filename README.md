@@ -13,18 +13,30 @@
 
 
 
+[[Bio](#bio)]
+[[Data Related Interests](#data_interests)]
+[[Data related technical skills](#technical_skills)]
+[[Repos](#repos)]
+[[Hobbies](#hobbies)]
+
+
+
+
 ---
 
 ### Welcome to my GitHub. My name is Richard &mdash; my friends call me Rich :)
 ---
-### Bio:
+### Bio: 
+<a name="bio"></a>
 
 A well traveled and proud Naval Special Operations Veteran (Diver), I add value through my diverse background in engineering and risk assessment. My analytical proclivities, degree in computer engineering (AA) and certification in data science guide me towards objective truth — one verifiable by data. I am a strong advocate of the ubiquitous utility of data disciplines. It is the convergence of my military history and intellectual curiosity, which beget my passion for using data and mathematical tools to optimize risk, guide decisions and solve complex problems
 
 
 ---
 
-### Data Related Interests:
+### Data Related Interests: 
+<a name="data_interests"></a>
+
 - #### Optimization
   - The concept of optimization is a philosophical motivation for my interest in data science and coding in general.
   - Metaheuristics like Ant colony optimization and Genetic algorithms are fascinating to me.
@@ -42,6 +54,9 @@ A well traveled and proud Naval Special Operations Veteran (Diver), I add value 
 ---
 
 ### Data related technical skills:
+<a name="technical_skills"></a>
+
+
 
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/white" />
@@ -73,11 +88,14 @@ A well traveled and proud Naval Special Operations Veteran (Diver), I add value 
 
 --- 
 ### Repos:
+<a name="repos"></a>
+
 Enjoy the repos and please excuse any mess, they are functional but I am working on updating them for aesthetics. 
 I would point you in the direction of the folders with project in the description but feel free to look around.
 
 ---
 ### Hobbies:
+<a name="hobbies"></a>
 
 Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
 
