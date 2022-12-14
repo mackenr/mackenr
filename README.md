@@ -107,7 +107,7 @@ I would point you in the direction of the folders with project in the descriptio
 
 Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
 
-[[Home](#home)]
+[[top](#home)]
 <!---
 mackenr/mackenr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
