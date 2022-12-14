@@ -1,10 +1,13 @@
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/readmebanner.png">
 
-<a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/richardmacken/">!["https://www.linkedin.com/in/richardmacken/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.kaggle.com/richardmacken">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
-<a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-D14836?plastic&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/richardmacken/">!["https://www.linkedin.com/in/richardmacken/](https://img.shields.io/badge/LinkedIn-0077B5?plastic&logo=linkedin&logoColor=white)</a>
+<a href="https://www.kaggle.com/richardmacken">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?plastic&logo=kaggle&logoColor=white)</a>
+<a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?plastic&logo=HackerRank&logoColor=#white)</a>
+<a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?plastic&logo=LeetCode&logoColor=#d16c06)</a>
+
+
+
 
 
 
@@ -39,6 +42,23 @@ A well traveled and proud Naval Special Operations Veteran (Diver), I add value 
 ---
 
 ### Data related technical skills:
+
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/white" />
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/markdown/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/mapbox/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/github/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/selenium/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/spacy/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/Homebrew/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white"/>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/sympy/white"/>
 
 >
 >   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | Regex |
