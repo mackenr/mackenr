@@ -18,7 +18,7 @@
 
 [[Bio](#bio)]
 [[Data Related Interests](#data_interests)]
-[[Data related technical skills](#technical_skills)]
+[[Technical skills](#technical_skills)]
 [[Portfolio](#repos)]
 [[Hobbies](#hobbies)]
 
