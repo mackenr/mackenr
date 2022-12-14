@@ -24,9 +24,6 @@
 
 
 ---
-
-### Welcome to my GitHub. My name is Richard &mdash; my friends call me Rich :)
----
 <a name="bio"></a>
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/biogithub.png">
@@ -35,16 +32,15 @@
 
 ---
 
-### Data Related Interests: 
+<!-- ### Data Related Interests:  -->
 <a name="data_interests"></a>
 
-<img width="1049" alt="interests" src="https://github.com/mackenr/mackenr/blob/main/datarelatedinterests.png">
 <img width="1049" alt="interests" src="https://github.com/mackenr/mackenr/blob/main/interests.png">
 
 
 
 
-
+<!-- 
 - #### Optimization
   - The concept of optimization is a philosophical motivation for my interest in data science and coding in general.
   - Metaheuristics like Ant colony optimization and Genetic algorithms are fascinating to me.
@@ -52,18 +48,18 @@
   - Web Scraping
   - Regex
   - Cleaning
-  > Overall I enjoy finding the patterns and solving the problems involved in acquiring and cleaning data. This seems to be the most interesting and useful part as the further steps in the data pipeline seem relatively generalizable from that point on.
+  > Overall I enjoy finding the patterns and solving the problems involved in acquiring and cleaning data. This seems to be the most interesting and useful part as the further steps in the data pipeline seem relatively generalizable from that point on. -->
  
-- #### Generalizable pipelines
+<!-- - #### Generalizable pipelines
   - After Data is properly wrangled, I enjoy creating and making subtle tweaks to the pipeline. The most immediately rewarding process is seeing your model's results improve.
 
-> Ultimately, I am interested in creating the most efficient systems possible subject to dynamic real world constraints, in order to provide the most objective guidance for decision-making.
+> Ultimately, I am interested in creating the most efficient systems possible subject to dynamic real world constraints, in order to provide the most objective guidance for decision-making. -->
 
 [[top](#home)]
 
 ---
 
-### Data related technical skills:
+<!-- ### Data related technical skills: -->
 <a name="technical_skills"></a>
 
 
