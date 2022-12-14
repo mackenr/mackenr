@@ -1,3 +1,5 @@
+<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/readmebanner.png">
+
 ### Welcome to my GitHub. My name is Richard &mdash; my friends call me Rich :)
 ---
 ### Bio:
