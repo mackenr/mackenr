@@ -151,16 +151,7 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
         "prop1": 0.0
         }
       },
-    { "type": "Feature",
-       "geometry": {
-         "type": "Polygon",
-         "coordinates": [
-           [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0],
-             [100.0, 1.0], [100.0, 0.0] ]
-           ]
-
-       },
-       "properties": {
+        "properties": {
          "prop0": "value0",
          "prop1": {"this": "that"}
          }
