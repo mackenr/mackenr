@@ -29,7 +29,7 @@
 ---
 <a name="bio"></a>
 
-<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/bioforgithub.png">
+<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/biogithub.png">
 
 [[top](#home)]
 
@@ -38,6 +38,18 @@
 ### Data Related Interests: 
 <a name="data_interests"></a>
 
+<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/datarelatedinterests.png">
+
+Add files via upload
+Dec 14, 2022
+interests.png
+Add files via upload
+Dec 14, 2022
+readmebanner.png
+Add files via upload
+Dec 13, 2022
+techskills.png
+Add files via upload 
 - #### Optimization
   - The concept of optimization is a philosophical motivation for my interest in data science and coding in general.
   - Metaheuristics like Ant colony optimization and Genetic algorithms are fascinating to me.
