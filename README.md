@@ -132,7 +132,7 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
   
 
   
-  ```json
+  ```geojson
 { "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
@@ -170,8 +170,8 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
   
 ```
   
-  
-```
+<!--   
+
 ```geojson
   {
     "elementType": "geometry",
@@ -369,7 +369,7 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
 ]
   
   
-```  
+```   -->
   
 </div>  
 <!---
