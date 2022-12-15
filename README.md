@@ -28,7 +28,7 @@
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/biogithub.png">
 
-[[&#xF425;](#home)]
+[<i class="bi bi-house"></i>(#home)]
 
 ---
 
