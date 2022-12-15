@@ -57,17 +57,17 @@
 
 > Ultimately, I am interested in creating the most efficient systems possible subject to dynamic real world constraints, in order to provide the most objective guidance for decision-making. -->
 
-[[top](#home)]
-
+--- 
+  
+[[top](#home)]  
+  
 ---
 
 <!-- ### Data related technical skills: -->
-<a name="technical_skills"></a>
-
-
-
-<div align="center">
-
+<a name="technical_skills"></a> 
+<img width="1049" alt="skills" src="https://github.com/mackenr/mackenr/blob/main/techskills.png">
+  
+  
 <img height="40" width="40" src="https://cdn.simpleicons.org/python/white" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/white" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/pytorch/white"/>
@@ -95,14 +95,15 @@
 <img height="40" width="40" src="https://cdn.simpleicons.org/discord/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/anaconda/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/PyPI/white"/>
-
-
-
-</div>
-
- 
-<img width="1049" alt="skills" src="https://github.com/mackenr/mackenr/blob/main/techskills.png">
-
+  
+  
+  
+  
+  
+  
+  
+--- 
+  
 [[top](#home)]  
   
 ---
@@ -119,6 +120,8 @@
 Enjoy the repos and please excuse any mess, they are functional but I am working on updating them for aesthetics. 
 I would point you in the direction of the folders with project in the description but feel free to look around.
 
+--- 
+  
 [[top](#home)]  
   
 ---
@@ -127,10 +130,11 @@ I would point you in the direction of the folders with project in the descriptio
 
 Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
 
-[[top](#home)]
+--- 
   
+[[top](#home)]  
   
- ---
+---
   
 ### 📊 GitHub Stats:
   
