@@ -90,12 +90,12 @@
 <img height="40" width="40" src="https://cdn.simpleicons.org/tableau/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/jupyter/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/overleaf/white"/>
+<!-- <img height="40" width="40" src="https://cdn.simpleicons.org/overleaf/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/slack/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/discord/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/anaconda/white"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/discord/white"/> -->
+<!-- <img height="40" width="40" src="https://cdn.simpleicons.org/anaconda/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/PyPI/white"/>
-  
+   -->
   
   
   
