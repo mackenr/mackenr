@@ -107,12 +107,46 @@
 <a name="repos"></a>
 
 
-<a href="https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file?&mode=dark&style=horizontal"> </a><br>
-<a href="https://github.com/mackenr/regression_project_zillow"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/regression_project_zillow?&mode=dark&style=horizontal"> </a><br>
-<a href="https://github.com/mackenr/travelingsalesman_project" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/travelingsalesman_project/blob/main/Code_Up_TSP_Simulation_n48.png&mode=dark&style=horizontal" alt="Traveling Salesman Project"> </a><br>
-<a href="https://github.com/mackenr/Project_1_Telco" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/Project_1_Telco?&mode=dark&style=horizontal"> </a><br>
-<a href="https://github.com/mackenr/nlp_project" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/nlp_project?&mode=dark&style=horizontal"> </a><br>
-<a href="https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb?&mode=dark&style=horizontal"> </a><br>
+
+
+ <table>
+  <tr><div align="center">
+    <th>Type</th>
+    <th>Link</th>
+  
+  </tr></div>
+  <tr><div align="center"> 
+    <td><div align="center">Capstone: NLP</td></div>   
+    <td><div align="center"> <a href="https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file?&mode=dark&style=horizontal"> </a></td></div>    
+
+  </tr></div>
+  <tr><div align="center">
+    <td><div align="center">Regression</td></div>
+    <td><div align="center"><a href="https://github.com/mackenr/regression_project_zillow"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/regression_project_zillow?&mode=dark&style=horizontal"> </a></td></div>
+
+  </tr></div>
+   <tr><div align="center">
+    <td><div align="center">Optimization</td></div>
+    <td><div align="center"><a href="https://github.com/mackenr/travelingsalesman_project" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/travelingsalesman_project/blob/main/Code_Up_TSP_Simulation_n48.png&mode=dark&style=horizontal" alt="Traveling Salesman Project"> </a></td></div>
+
+  </tr></div>
+  <tr><div align="center">
+    <td><div align="center">Classification</td></div>
+    <td><div align="center"><a href="https://github.com/mackenr/Project_1_Telco" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/Project_1_Telco?&mode=dark&style=horizontal"> </a></td></div>
+  
+  </tr></div>
+  <tr><div align="center">
+    <td><div align="center">NLP</td></div>
+    <td><div align="center"><a href="https://github.com/mackenr/nlp_project" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/nlp_project?&mode=dark&style=horizontal"> </a></td></div>
+
+  </tr></div>
+    <tr><div align="center">
+    <td><div align="center">Clustering</td></div>
+    <td><div align="center"><a href="https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb?&mode=dark&style=horizontal"> </a></td></div>
+   
+  </tr></div>
+</table> 
+
 
 
 
