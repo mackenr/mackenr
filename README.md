@@ -4,7 +4,7 @@
   
 ---
   
-### Contact & Social :envelope:
+### Contact & Social
 
 <a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-282C34?plastic&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/richardmacken/">!["https://www.linkedin.com/in/richardmacken/](https://img.shields.io/badge/LinkedIn-282C34?plastic&logo=linkedin&logoColor=white)</a>
