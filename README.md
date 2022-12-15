@@ -106,8 +106,15 @@
 ### Portfolio:
 <a name="repos"></a>
 
-Enjoy the repos and please excuse any mess, they are functional but I am working on updating them for aesthetics. 
-I would point you in the direction of the folders with project in the description but feel free to look around.
+
+<a href="https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file?&mode=dark&style=horizontal"> </a><br>
+<a href="https://github.com/mackenr/regression_project_zillow"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/regression_project_zillow?&mode=dark&style=horizontal"> </a><br>
+<a href="https://github.com/mackenr/travelingsalesman_project" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/travelingsalesman_project/blob/main/Code_Up_TSP_Simulation_n48.png&mode=dark&style=horizontal" alt="Traveling Salesman Project"> </a><br>
+<a href="https://github.com/mackenr/Project_1_Telco" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/Project_1_Telco?&mode=dark&style=horizontal"> </a><br>
+<a href="https://github.com/mackenr/nlp_project" > <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/nlp_project?&mode=dark&style=horizontal"> </a><br>
+<a href="https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb"> <img  width="275" src="https://svg.bookmark.style/api?url=https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb?&mode=dark&style=horizontal"> </a><br>
+
+
 
 --- 
   
