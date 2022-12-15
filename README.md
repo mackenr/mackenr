@@ -28,7 +28,7 @@
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/biogithub.png">
 
-[:anchor:](#home)
+&mdash; [:anchor:](#home) &mdash;
 
 ---
 
@@ -42,7 +42,7 @@
 
 --- 
   
-&mdash;[:anchor](#home):&mdash;
+&mdash; [:anchor:](#home) &mdash;
   
 ---
 
@@ -87,7 +87,7 @@
   
 --- 
   
-&mdash;[:anchor](#home):&mdash;
+&mdash; [:anchor:](#home) &mdash;
   
 ---
 
@@ -117,7 +117,7 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
 
 --- 
   
-&mdash;[:anchor](#home):&mdash;
+&mdash; [:anchor:](#home) &mdash;
   
 ---
   
