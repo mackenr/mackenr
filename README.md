@@ -81,6 +81,38 @@
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/Homebrew/white"/>
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white"/>
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/sympy/white"/>
+  
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=02569B" alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visualstudiocode&logoColor=02569B" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch&logoColor=02569B" alt="PyTorch logo" title="PyTorch" height="25" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=02569B" alt="MySQL logo" title="MySQL" height="25" />
+<img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=02569B" alt="pandas logo" title="pandas" height="25" />
+<img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=02569B" alt="Markdown logo" title="Markdown" height="25" />
+<img src="https://img.shields.io/badge/Mapbox-282C34?logo=mapbox&logoColor=02569B" alt="Mapbox logo" title="Mapbox" height="25" />
+<img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=02569B" alt="Plotly logo" title="Plotly" height="25" />
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=02569B" alt="GitHub logo" title="GitHub" height="25" />
+<img src="https://img.shields.io/badge/SciPy-282C34?logo=scipy&logoColor=02569B" alt="SciPy logo" title="SciPy" height="25" />
+<img src="https://img.shields.io/badge/scikit-learn?logo=scikitlearn&logoColor=02569B&color=282C34"" alt="scikit learn logo" title="scikit learn" height="25" />
+<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=02569B" alt="Selenium logo" title="Selenium" height="25" />
+<img src="https://img.shields.io/badge/spaCy-282C34?logo=spacy&logoColor=02569B" alt="spaCy logo" title="spaCy" height="25" />
+<img src="https://img.shields.io/badge/Homebrew-282C34?logo=homebrew&logoColor=02569B" alt="Homebrew logo" title="Homebrew" height="25" />
+<img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=02569B" alt="NumPy logo" title="NumPy" height="25" />
+<img src="https://img.shields.io/badge/SymPy-282C34?logo=sympy&logoColor=02569B" alt="SymPy logo" title="SymPy" height="25" />
+<img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=02569B" alt="Keras logo" title="Keras" height="25" />
+<img src="https://img.shields.io/badge/SymPy-282C34?logo=sympy&logoColor=02569B" alt="SymPy logo" title="SymPy" height="25" />
+<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=02569B" alt="Latex logo" title="Latex" height="25" />
+<img src="https://img.shields.io/badge/Apache Spark-282C34?logo=apachespark&logoColor=02569B" alt="Apache Spark logo" title="Apache Spark" height="25" />
+<img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=02569B" alt="Tableau logo" title="Tableau" height="25" />
+<img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=02569B" alt="Microsoft Excel logo" title="Microsoft Excel" height="25" />
+<img src="https://img.shields.io/badge/Google Sheets-282C34?logo=googlesheets&logoColor=02569B" alt="Google Sheets logo" title="Google Sheets" height="25" />
+<img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=02569B" alt="Jupyter logo" title="Jupyter" height="25" />
+<img src="https://img.shields.io/badge/Overleaf-282C34?logo=overleaf&logoColor=02569B" alt="Overleaf logo" title="Overleaf" height="25" />
+<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=02569B" alt="Slack logo" title="Slack" height="25" />
+<img src="https://img.shields.io/badge/Wolfram-282C34?logo=wolfram&logoColor=02569B" alt="Wolfram logo" title="Wolfram" height="25" />
+<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=02569B" alt="Discord logo" title="Discord" height="25" />
+<img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=02569B" alt="Anaconda logo" title="Anaconda" height="25" />
+<img src="https://img.shields.io/badge/arXiv-282C34?logo=arxiv&logoColor=02569B" alt="arXiv logo" title="arXiv" height="25" />
+<img src="https://img.shields.io/badge/PyPi-282C34?logo=pypi&logoColor=02569B" alt="PyPi logo" title="PyPi" height="25" />
 
 <!-- >
 >   Python | SQL | Tableau | Matplotlib | MySQL | pandas | NumPy | Git | Applied Statistics | Regex |
@@ -130,7 +162,7 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
   
   
   
-<a href="www.github/mackenr"><img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg/white" alt="Curriculum Vitae"></a>
+<a href="www.github/mackenr"><img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Curriculum Vitae"></a>
 
 
     
