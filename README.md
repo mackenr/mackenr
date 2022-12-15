@@ -42,7 +42,7 @@
 
 --- 
   
-[[top](#home)]  
+[[:anchor:](#home)]  
   
 ---
 
