@@ -130,10 +130,9 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
   
   
   
-<a href="www.github/mackenr"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Curriculum Vitae"></a>
+<a href="www.github/mackenr"><img height="32" width="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Curriculum Vitae"></a>
 
-  
- 
+
     
 </div>  
 <!---
