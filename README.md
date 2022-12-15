@@ -42,7 +42,7 @@
 
 --- 
   
-[[:anchor:](#home)]  
+&mdash;[:anchor](#home):&mdash;
   
 ---
 
@@ -87,7 +87,7 @@
   
 --- 
   
-[[:anchor:](#home)]  
+&mdash;[:anchor](#home):&mdash;
   
 ---
 
@@ -117,7 +117,7 @@ Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
 
 --- 
   
-[[:anchor:](#home)]  
+&mdash;[:anchor](#home):&mdash;
   
 ---
   
