@@ -1,7 +1,8 @@
 <div align="center">
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/readmebanner.png">
-___ 
+  
+---
   
 ### Contact & Social :envelope:
 
@@ -11,7 +12,7 @@ ___
 <a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-282C34?plastic&logo=HackerRank&logoColor=white)</a>
 <a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-282C34?plastic&logo=LeetCode&logoColor=white)</a>
 
-
+---
 
 
 <a name="home"></a>
