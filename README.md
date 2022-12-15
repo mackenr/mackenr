@@ -1,8 +1,9 @@
 <div align="center">
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/readmebanner.png">
-___  
-### Social :envelope:
+___ 
+  
+### Contact & Social :envelope:
 
 <a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-282C34?plastic&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/richardmacken/">!["https://www.linkedin.com/in/richardmacken/](https://img.shields.io/badge/LinkedIn-282C34?plastic&logo=linkedin&logoColor=white)</a>
