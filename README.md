@@ -28,6 +28,8 @@
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/biogithub.png">
 
+---
+
 &mdash; [:anchor:](#home) &mdash;
 
 ---
