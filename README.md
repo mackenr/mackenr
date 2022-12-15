@@ -65,61 +65,45 @@
 <a name="technical_skills"></a>
 
 
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/white" />
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/markdown/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/mapbox/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/github/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/selenium/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/spacy/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/Homebrew/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white"/>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/sympy/white"/>
-  
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFFFF" alt="Python logo" title="Python" height="35" />
-<img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visualstudiocode&logoColor=FFFFFF" alt="Visual Studio Code logo" title="Visual Studio Code" height="35" />
-<img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch&logoColor=FFFFFF" alt="PyTorch logo" title="PyTorch" height="35" />
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="35" />
-<img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=FFFFFF" alt="pandas logo" title="pandas" height="35" />
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFFFF" alt="Python logo" title="Python" height="45" />
+<img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visualstudiocode&logoColor=FFFFFF" alt="Visual Studio Code logo" title="Visual Studio Code" height="45" />
+<img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch&logoColor=FFFFFF" alt="PyTorch logo" title="PyTorch" height="45" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="45" />
+<img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=FFFFFF" alt="pandas logo" title="pandas" height="45" />
 <br>
-<img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=FFFFFF" alt="Markdown logo" title="Markdown" height="35" />
-<img src="https://img.shields.io/badge/Mapbox-282C34?logo=mapbox&logoColor=FFFFFF" alt="Mapbox logo" title="Mapbox" height="35" />
-<img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=FFFFFF" alt="Plotly logo" title="Plotly" height="35" />
-<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="35" />
-<img src="https://img.shields.io/badge/SciPy-282C34?logo=scipy&logoColor=FFFFFF" alt="SciPy logo" title="SciPy" height="35" />
+<img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=FFFFFF" alt="Markdown logo" title="Markdown" height="45" />
+<img src="https://img.shields.io/badge/Mapbox-282C34?logo=mapbox&logoColor=FFFFFF" alt="Mapbox logo" title="Mapbox" height="45" />
+<img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=FFFFFF" alt="Plotly logo" title="Plotly" height="45" />
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="45" />
+<img src="https://img.shields.io/badge/SciPy-282C34?logo=scipy&logoColor=FFFFFF" alt="SciPy logo" title="SciPy" height="45" />
 <br>
-<img src="https://img.shields.io/badge/scikit-learn?logo=scikitlearn&logoColor=FFFFFF&color=282C34" alt="scikit learn logo" title="scikit learn" height="35" />
-<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=FFFFFF" alt="Selenium logo" title="Selenium" height="35" />
-<img src="https://img.shields.io/badge/spaCy-282C34?logo=spacy&logoColor=FFFFFF" alt="spaCy logo" title="spaCy" height="35" />
-<img src="https://img.shields.io/badge/Homebrew-282C34?logo=homebrew&logoColor=FFFFFF" alt="Homebrew logo" title="Homebrew" height="35" />
-<img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=FFFFFF" alt="NumPy logo" title="NumPy" height="35" />
+<img src="https://img.shields.io/badge/scikit-learn?logo=scikitlearn&logoColor=FFFFFF&color=282C34" alt="scikit learn logo" title="scikit learn" height="45" />
+<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=FFFFFF" alt="Selenium logo" title="Selenium" height="45" />
+<img src="https://img.shields.io/badge/spaCy-282C34?logo=spacy&logoColor=FFFFFF" alt="spaCy logo" title="spaCy" height="45" />
+<img src="https://img.shields.io/badge/Homebrew-282C34?logo=homebrew&logoColor=FFFFFF" alt="Homebrew logo" title="Homebrew" height="45" />
+<img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=FFFFFF" alt="NumPy logo" title="NumPy" height="45" />
 <br>
-<img src="https://img.shields.io/badge/SymPy-282C34?logo=sympy&logoColor=FFFFFF" alt="SymPy logo" title="SymPy" height="35" />
-<img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=FFFFFF" alt="Keras logo" title="Keras" height="35" />
-<img src="https://img.shields.io/badge/SymPy-282C34?logo=sympy&logoColor=FFFFFF" alt="SymPy logo" title="SymPy" height="35" />
-<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=FFFFFF" alt="Latex logo" title="Latex" height="35" />
-<img src="https://img.shields.io/badge/Apache Spark-282C34?logo=apachespark&logoColor=FFFFFF" alt="Apache Spark logo" title="Apache Spark" height="35" />
+<img src="https://img.shields.io/badge/SymPy-282C34?logo=sympy&logoColor=FFFFFF" alt="SymPy logo" title="SymPy" height="45" />
+<img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=FFFFFF" alt="Keras logo" title="Keras" height="45" />
+<img src="https://img.shields.io/badge/SymPy-282C34?logo=sympy&logoColor=FFFFFF" alt="SymPy logo" title="SymPy" height="45" />
+<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=FFFFFF" alt="Latex logo" title="Latex" height="45" />
+<img src="https://img.shields.io/badge/Apache Spark-282C34?logo=apachespark&logoColor=FFFFFF" alt="Apache Spark logo" title="Apache Spark" height="45" />
 <br>
-<img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=FFFFFF" alt="Tableau logo" title="Tableau" height="35" />
-<img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=FFFFFF" alt="Microsoft Excel logo" title="Microsoft Excel" height="35" />
-<img src="https://img.shields.io/badge/Google Sheets-282C34?logo=googlesheets&logoColor=FFFFFF" alt="Google Sheets logo" title="Google Sheets" height="35" />
-<img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=FFFFFF" alt="Jupyter logo" title="Jupyter" height="35" />
-<img src="https://img.shields.io/badge/Overleaf-282C34?logo=overleaf&logoColor=FFFFFF" alt="Overleaf logo" title="Overleaf" height="35" />
+<img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=FFFFFF" alt="Tableau logo" title="Tableau" height="45" />
+<img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=FFFFFF" alt="Microsoft Excel logo" title="Microsoft Excel" height="45" />
+<img src="https://img.shields.io/badge/Google Sheets-282C34?logo=googlesheets&logoColor=FFFFFF" alt="Google Sheets logo" title="Google Sheets" height="45" />
+<img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=FFFFFF" alt="Jupyter logo" title="Jupyter" height="45" />
+<img src="https://img.shields.io/badge/Overleaf-282C34?logo=overleaf&logoColor=FFFFFF" alt="Overleaf logo" title="Overleaf" height="45" />
 <br>
-<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=FFFFFF" alt="Slack logo" title="Slack" height="35" />
-<img src="https://img.shields.io/badge/Wolfram-282C34?logo=wolfram&logoColor=FFFFFF" alt="Wolfram logo" title="Wolfram" height="35" />
-<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=FFFFFF" alt="Discord logo" title="Discord" height="35" />
-<img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=FFFFFF" alt="Anaconda logo" title="Anaconda" height="35" />
-<img src="https://img.shields.io/badge/arXiv-282C34?logo=arxiv&logoColor=FFFFFF" alt="arXiv logo" title="arXiv" height="35" />
-<img src="https://img.shields.io/badge/PyPi-282C34?logo=pypi&logoColor=FFFFFF" alt="PyPi logo" title="PyPi" height="35" />
+<img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=FFFFFF" alt="Slack logo" title="Slack" height="45" />
+<img src="https://img.shields.io/badge/Wolfram-282C34?logo=wolfram&logoColor=FFFFFF" alt="Wolfram logo" title="Wolfram" height="45" />
+<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=FFFFFF" alt="Discord logo" title="Discord" height="45" />
+<img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=FFFFFF" alt="Anaconda logo" title="Anaconda" height="45" />
+<img src="https://img.shields.io/badge/arXiv-282C34?logo=arxiv&logoColor=FFFFFF" alt="arXiv logo" title="arXiv" height="45" />
+<img src="https://img.shields.io/badge/PyPi-282C34?logo=pypi&logoColor=FFFFFF" alt="PyPi logo" title="PyPi" height="45" />
 
 
 </div>
