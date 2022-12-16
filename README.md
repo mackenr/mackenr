@@ -30,7 +30,7 @@
 ---
 <a name="bio"></a>
 
-<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/biogithub.png">
+<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/bio.png">
 
 ---
 
@@ -54,7 +54,7 @@
 
 <!-- ### Data related technical skills: -->
 <a name="technical_skills"></a> 
-<img width="1049" alt="skills" src="https://github.com/mackenr/mackenr/blob/main/techskills.png">
+<img width="1049" alt="skills" src="https://github.com/mackenr/mackenr/blob/main/skills.png">
   
   
 <img height="40" width="40" src="https://cdn.simpleicons.org/python/white" />
@@ -133,8 +133,7 @@
 ---
 ### Hobbies:
 <a name="hobbies"></a>
-
-Brazilian Jiu-Jitsu: Purple Belt | Fitness | Swimming | Reading
+<img width="1049" alt="hobbies" src="https://github.com/mackenr/mackenr/blob/main/hobbies.png">
 
 --- 
   
