@@ -131,7 +131,6 @@
 &mdash; [:anchor:](#home) &mdash;
   
 ---
-### Hobbies:
 <a name="hobbies"></a>
 <img width="1049" alt="hobbies" src="https://github.com/mackenr/mackenr/blob/main/hobbies.png">
 
