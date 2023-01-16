@@ -1,11 +1,13 @@
-### Navigation
 <div align="center">
+### Navigation
+
 
 <a name="home"></a>
 [`Bio`](#bio)
+[`Portfolio`](#repos)
 [`Data Related Interests`](#data_interests)
 [`Technical skills`](#technical_skills)
-[`Portfolio`](#repos)
+
 [`Hobbies`](#hobbies)
 
 ---
