@@ -1,16 +1,19 @@
 ### Navigation
+
 <a name="home"></a>
 [`Bio`](#bio)
 [`Data Related Interests`](#data_interests)
 [`Technical skills`](#technical_skills)
 [`Portfolio`](#repos)
 [`Hobbies`](#hobbies)
+
 ---
   
 
 <div align="center">
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/banner.png">
+  
 ---
 
 
