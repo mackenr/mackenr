@@ -1,4 +1,5 @@
 ### Navigation
+<div align="center">
 
 <a name="home"></a>
 [`Bio`](#bio)
@@ -10,7 +11,6 @@
 ---
   
 
-<div align="center">
 
 <img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/banner.png">
   
