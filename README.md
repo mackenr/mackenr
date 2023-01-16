@@ -8,7 +8,6 @@
 [`Portfolio`](#repos)
 [`Data Related Interests`](#data_interests)
 [`Technical skills`](#technical_skills)
-
 [`Hobbies`](#hobbies)
 
 ---
