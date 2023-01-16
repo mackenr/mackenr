@@ -34,7 +34,7 @@
 
 ---
 
-`&mdash; [:anchor:](#home) &mdash;`
+&mdash; [:anchor:](#home) &mdash;
 
 ---
 
@@ -48,7 +48,7 @@
 
 --- 
   
-&mdash; [`:anchor:`](#home) &mdash;
+&mdash; [:anchor:](#home) &mdash;
   
 ---
 
@@ -93,7 +93,7 @@
   
 --- 
   
-&mdash; [`:anchor:`](#home) &mdash;
+&mdash; [:anchor:](#home) &mdash;
   
 ---
 
@@ -128,7 +128,7 @@
 
 --- 
   
-&mdash; [`:anchor:`](#home) &mdash;
+&mdash; [:anchor:](#home) &mdash;
   
 ---
 <a name="hobbies"></a>
@@ -136,7 +136,7 @@
 
 --- 
   
-&mdash; [`:anchor:`](#home) &mdash;
+&mdash; [:anchor:](#home) &mdash;
   
 ---
   
