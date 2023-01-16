@@ -18,7 +18,7 @@
 <a name="home"></a>
 
 
-[[Bio](#bio)]
+[[`Bio`](#bio)]
 [[Data Related Interests](#data_interests)]
 [[Technical skills](#technical_skills)]
 [[Portfolio](#repos)]
