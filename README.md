@@ -1,13 +1,19 @@
 ### Navigation
 <a name="home"></a>
-
-
 [`Bio`](#bio)
 [`Data Related Interests`](#data_interests)
 [`Technical skills`](#technical_skills)
 [`Portfolio`](#repos)
 [`Hobbies`](#hobbies)
 ---
+  
+
+<div align="center">
+
+<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/banner.png">
+---
+
+
   
 ### Contact & Social
 
@@ -16,14 +22,6 @@
 <a href="https://www.kaggle.com/richardmacken">![Kaggle](https://img.shields.io/badge/Kaggle-282C34?plastic&logo=kaggle&logoColor=white)</a>
 <a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-282C34?plastic&logo=HackerRank&logoColor=white)</a>
 <a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-282C34?plastic&logo=LeetCode&logoColor=white)</a>
-
----
-
-
-<div align="center">
-
-<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/banner.png">
-  
 
 
 
