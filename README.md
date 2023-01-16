@@ -34,7 +34,7 @@
 
 ---
 
-&mdash; [`:anchor:`](#home) &mdash;
+`&mdash; [:anchor:](#home) &mdash;`
 
 ---
 
