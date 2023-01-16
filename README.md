@@ -117,14 +117,12 @@
   <tr><div align="center"> 
        <td><div align="center">Capstone: NLP<br><a href="https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file"> <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/twitter-personality-predictor/capstone-project/tree/main/main_file?&mode=dark"> </a></td></div>
        <td><div align="center">Regression<br><a href="https://github.com/mackenr/regression_project_zillow"> <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/regression_project_zillow?&mode=dark"> </a></td></div>
-       <td><div align="center">Optimization<br><a href="https://github.com/mackenr/travelingsalesman_project" > <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/travelingsalesman_project/blob/main/Code_Up_TSP_Simulation_n48.png&mode=dark" alt="Traveling Salesman Project"> </a></td></div>    
-
+       <td><div align="center">Optimization<br><a href="https://github.com/mackenr/travelingsalesman_project" > <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/travelingsalesman_project/blob/main/Code_Up_TSP_Simulation_n48.png&mode=dark" alt="Traveling Salesman Project"> </a></td></div>  
    </tr></div>
   <tr><div align="center">
     <td><div align="center">Classification<br><a href="https://github.com/mackenr/Project_1_Telco" > <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/Project_1_Telco?&mode=dark"> </a></td></div>
     <td><div align="center">NLP<br><a href="https://github.com/mackenr/nlp_project" > <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/mackenr/nlp_project?&mode=dark"> </a></td></div>  
-    <td><div align="center">Clustering<br><a href="https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb"> <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb?&mode=dark"> </a></td></div>
-   
+    <td><div align="center">Clustering<br><a href="https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb"> <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb?&mode=dark"> </a></td></div>   
   </tr></div>
 </table> 
 
@@ -144,11 +142,11 @@
 ---
   
 ### GitHub Stats:
-<!--   
+  
 ![](https://github-readme-stats.vercel.app/api?username=mackenr&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mackenr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mackenr&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
- -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mackenr&theme=dark&hide_border=true)
 ---
 
