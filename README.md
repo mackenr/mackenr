@@ -18,11 +18,11 @@
 <a name="home"></a>
 
 
-[`Bio`(#bio)]
-[`Data Related Interests`(#data_interests)]
-[`Technical skills`(#technical_skills)]
-[`Portfolio`(#repos)]
-[`Hobbies`(#hobbies)]
+`[Bio`(#bio)]
+`[Data Related Interests](#data_interests)`
+`[Technical skills](#technical_skills)`
+`[Portfolio](#repos)`
+`[Hobbies](#hobbies)`
 
 
 
