@@ -1,7 +1,12 @@
-<div align="center">
+### Navigation
+<a name="home"></a>
 
-<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/banner.png">
-  
+
+[`Bio`](#bio)
+[`Data Related Interests`](#data_interests)
+[`Technical skills`](#technical_skills)
+[`Portfolio`](#repos)
+[`Hobbies`](#hobbies)
 ---
   
 ### Contact & Social
@@ -14,16 +19,11 @@
 
 ---
 
-### Navigation
-<a name="home"></a>
 
+<div align="center">
 
-[`Bio`](#bio)
-[`Data Related Interests`](#data_interests)
-[`Technical skills`](#technical_skills)
-[`Portfolio`](#repos)
-[`Hobbies`](#hobbies)
-
+<img width="1049" alt="readmebanner" src="https://github.com/mackenr/mackenr/blob/main/banner.png">
+  
 
 
 
