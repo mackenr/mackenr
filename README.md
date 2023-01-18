@@ -110,7 +110,7 @@
 <a name="repos"></a>
 
 
-
+<!-- 
  <table>
   <tr><div align="center">
   </tr></div>
@@ -125,7 +125,7 @@
     <td><div align="center">Clustering<br><a href="https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb"> <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb?&mode=dark"> </a></td></div>   
   </tr></div>
 </table> 
-
+ -->
 
 --- 
   
@@ -147,7 +147,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mackenr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mackenr&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mackenr&theme=dark&hide_border=true)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mackenr&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
