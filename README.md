@@ -110,7 +110,7 @@
 <a name="repos"></a>
 
 
-<!-- 
+
  <table>
   <tr><div align="center">
   </tr></div>
@@ -125,7 +125,7 @@
     <td><div align="center">Clustering<br><a href="https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb"> <img  width="349" src="https://svg.bookmark.style/api?url=https://github.com/Macken-Lopez/FINAL_-PROJECT_3/blob/main/final_notebook.ipynb?&mode=dark"> </a></td></div>   
   </tr></div>
 </table> 
- -->
+
 
 --- 
   
