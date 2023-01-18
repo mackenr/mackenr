@@ -51,7 +51,7 @@
 
 --- 
   
-&mdash; [:anchor:](#home) &mdash;
+&mdash;[`⚓`](#top)(#home) &mdash;
   
 ---
 
@@ -96,7 +96,7 @@
   
 --- 
   
-&mdash; [:anchor:](#home) &mdash;
+&mdash;[`⚓`](#top)(#home) &mdash;
   
 ---
 
@@ -129,7 +129,7 @@
 
 --- 
   
-&mdash; [:anchor:](#home) &mdash;
+&mdash;[`⚓`](#top)(#home) &mdash;
   
 ---
 <a name="hobbies"></a>
@@ -137,7 +137,7 @@
 
 --- 
   
-&mdash; [:anchor:](#home) &mdash;
+&mdash;[`⚓`](#top)(#home) &mdash;
   
 ---
   
@@ -151,6 +151,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mackenr&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+&mdash;[`⚓`](#top)(#home) &mdash;
   
   
   
