@@ -1,7 +1,7 @@
 <div align="center">
 
 <a id="table"></a>
-<h1 style="background-color:darkblue;font-family:Courier;font-size:350%;text-align:center;border-radius: 15px 50px;">Navigation</h1>  
+<h1 style="background-color:darkblue;font-family:Impact;font-size:350%;text-align:center;border-radius: 15px 50px;">Navigation</h1>  
   
 
 
