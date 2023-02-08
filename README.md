@@ -92,7 +92,100 @@
 <img height="40" width="40" src="https://cdn.simpleicons.org/PyPI/white"/>
    -->
   
+
+# 🛠️  Tools
+## 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:
+
+<table>
+
+   <tr>
+      <th>Language</th>
+      <th>Libraries</th>
+      <th>IDE/Text Editor</th>
+   </tr>
+   <tr>
+      <td><p align="center"><img alt="Python" src="https://img.shields.io/badge/-Python-1c2120?style=plastic&logo=python&logoColor=94d8a8"></p></td>
+      <td><p align="center">
+         <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-1c2120?style=plastic&logo=jupyter&logoColor=94d8a8">
+         <img alt="pandas" src="https://img.shields.io/badge/-pandas-1c2120?style=plastic&logo=pandas&logoColor=94d8a8">
+         <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-1c2120?style=plastic&logo=numpy&logoColor=94d8a8">
+         <img alt="Matplotlib" src="https://custom-icon-badges.herokuapp.com/badge/Matplotlib-1c2120.svg?style=plastic&logo=matplotlib-94d8a8&logoColor=94d8a8">
+         <br></br>
+         <img alt="sklearn" src="https://img.shields.io/badge/sklearn-1c2120.svg?style=plastic&logo=scikitlearn&logoColor=94d8a8">
+         <img alt="Seaborn" src="https://custom-icon-badges.herokuapp.com/badge/Seaborn-1c2120.svg?style=plastic&logo=seaborn-94d8a8&logoColor=94d8a8">
+         <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-1c2120?style=plastic&logo=selenium&logoColor=94d8a8">
+         <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-1c2120?style=plastic&logo=plotly&logoColor=94d8a8">
+         <br></br>
+         <img alt="SymPy" src="https://img.shields.io/badge/-SymPy-1c2120?style=plastic&logo=sympy&logoColor=94d8a8">
+         <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-1c2120?style=plastic&logo=scipy&logoColor=94d8a8">
+         <img alt="spaCy" src="https://img.shields.io/badge/-spaCy-1c2120?style=plastic&logo=spacy&logoColor=94d8a8">
+         <img alt="Mapbox" src="https://img.shields.io/badge/-Mapbox-1c2120?style=plastic&logo=mapbox&logoColor=94d8a8">
+         <br></br>
+         <img alt="Polars" src="https://img.shields.io/badge/-Polars-1c2120?style=plastic&logo=polars&logoColor=94d8a8">
+         <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-1c2120?style=plastic&logo=pytorch&logoColor=94d8a8">
+         <img alt="Keras" src="https://img.shields.io/badge/-Keras-1c2120?style=plastic&logo=keras&logoColor=94d8a8">
+         <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-1c2120?style=plastic&logo=streamlit&logoColor=94d8a8">
+         <br></br>
+         <img alt="TensorFlow" src="https://custom-icon-badges.herokuapp.com/badge/TensorFlow-1c2120.svg?style=plastic&logo=tensorflow&logoColor=94d8a8">
+         <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1c2120?style=plastic&logo=python&logoColor=94d8a8">
+         <img alt="RegEx" src="https://img.shields.io/badge/-RegEx-1c2120?style=plastic&logo=python&logoColor=94d8a8">
+         <img alt="Dash" src="https://img.shields.io/badge/-Dash-1c2120?style=plastic&logo=dash&logoColor=94d8a8">
+         <br></br>
+         <img alt="The algorithms" src="https://img.shields.io/badge/-The_Algorithms-1c2120?style=plastic&logo=thealgorithms&logoColor=94d8a8">
+         <img alt="PyPI" src="https://img.shields.io/badge/-PyPI-1c2120?style=plastic&logo=pypi&logoColor=94d8a8">        
+         <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-1c2120?style=plastic&logo=anaconda&logoColor=94d8a8">
+         <img alt="Homebrew" src="https://img.shields.io/badge/-Homebrew-1c2120?style=plastic&logo=homebrew&logoColor=94d8a8">
+      </p></td>
+      <td><p align="center">
+         <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-1c2120?style=plastic&logo=visualstudiocode&logoColor=94d8a8">
+         <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-1c2120?style=plastic&logo=jupyter&logoColor=94d8a8">
+         <img alt="Vim" src="https://img.shields.io/badge/-Vim-1c2120?style=plastic&logo=vim&logoColor=94d8a8">
+         <br></br>
+         <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-1c2120?style=plastic&logo=googlecolab&logoColor=94d8a8">
+         <img alt="Replit" src="https://img.shields.io/badge/-Replit-1c2120?style=plastic&logo=replit&logoColor=94d8a8">
+      </p></td>
+   <tr>
+      <td><p align="center"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-1c2120.svg?style=plastic&logo=database&logoColor=94d8a8"></p></td>
+      <td></td>
+      <td><p align="center">
+         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1c2120?style=plastic&logo=mysql&logoColor=94d8a8">
+         <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-1c2120?style=plastic&logo=sqlite&logoColor=94d8a8">
+      </p></td>
+   </tr>
+   <tr>
+      <td><p align="center"><img alt="Julia" src="https://img.shields.io/badge/-Julia-1c2120?style=plastic&logo=julia&logoColor=94d8a8"></p></td>
+      <td></td>
+      <td><p align="center"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-1c2120?style=plastic&logo=visualstudiocode&logoColor=94d8a8"></p></td>
+   </tr>
+    <tr>
+      <td><p align="center"><img alt="C++" src="https://img.shields.io/badge/-C++-1c2120?style=plastic&logo=cplusplus&logoColor=94d8a8"></p></td>
+      <td></td>
+      <td><p align="center"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-1c2120?style=plastic&logo=visualstudio&logoColor=94d8a8"></p></td>
+   </tr>
+   <tr>
+      <td><p align="center"><img alt="C" src="https://img.shields.io/badge/-C-1c2120?style=plastic&logo=c&logoColor=94d8a8"></p></td>
+      <td></td>
+      <td><p align="center"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-1c2120?style=plastic&logo=visualstudio&logoColor=94d8a8"></p></td>
+   </tr>
+   <tr>
+      <td><p align="center"><img alt="MATLAB" src="https://custom-icon-badges.herokuapp.com/badge/MATLAB-1c2120.svg?style=plastic&logo=matlab-gradient&logoColor=94d8a8"></p></td>
+      <td></td>
+      <td><p align="center"><img alt="MATLAB" src="https://custom-icon-badges.herokuapp.com/badge/MATLAB_Editor-1c2120.svg?style=plastic&logo=matlab-gradient&logoColor=94d8a8"></p></td>
+   </tr>
+   <tr>
+      <td><p align="center"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-1c2120?style=plastic&logo=markdown&logoColor=94d8a8"></p></td>
+      <td></td>
+      <td><p align="center"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-1c2120?style=plastic&logo=visualstudiocode&logoColor=94d8a8"></p></td>
+      
+   </tr>    <tr>
+      <td><p align="center"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-1c2120?style=plastic&logo=latex&logoColor=94d8a8"></p></td>
+      <td></td>
+      <td><p align="center"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-1c2120?style=plastic&logo=overleaf&logoColor=94d8a8"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-1c2120?style=plastic&logo=visualstudiocode&logoColor=94d8a8"></p></td>
+   </tr>
+   
   
+</table>
+</div>  
   
   
   
