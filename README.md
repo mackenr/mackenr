@@ -63,7 +63,7 @@
 <img width="1049" alt="skills" src="https://github.com/mackenr/mackenr/blob/main/skills.png">
   
   
-<img height="40" width="40" src="https://cdn.simpleicons.org/python/white" />
+<!-- <img height="40" width="40" src="https://cdn.simpleicons.org/python/white" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/white" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/pytorch/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/white"/>
@@ -84,7 +84,7 @@
 <img height="40" width="40" src="https://cdn.simpleicons.org/apachespark/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/tableau/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/jupyter/white"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/jupyter/white"/> -->
 <!-- <img height="40" width="40" src="https://cdn.simpleicons.org/overleaf/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/slack/white"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/discord/white"/> -->
