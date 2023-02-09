@@ -25,11 +25,11 @@
   
 ### Contact & Social
 
-<a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-282C34?plastic&logo=gmail&logoColor=white)</a>
+<a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-282C34?plastic&logo=gmail&logoColor=94d8a8)</a>
 <a href="https://www.linkedin.com/in/richardmacken/">!["https://www.linkedin.com/in/richardmacken/](https://img.shields.io/badge/LinkedIn-282C34?plastic&logo=linkedin&logoColor=white)</a>
-<a href="https://www.kaggle.com/richardmacken">![Kaggle](https://img.shields.io/badge/Kaggle-282C34?plastic&logo=kaggle&logoColor=white)</a>
-<a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-282C34?plastic&logo=HackerRank&logoColor=white)</a>
-<a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-282C34?plastic&logo=LeetCode&logoColor=white)</a>
+<a href="https://www.kaggle.com/richardmacken">![Kaggle](https://img.shields.io/badge/Kaggle-282C34?style=plastic&logo=kaggle&logoColor=94d8a8)</a>
+<a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-282C34?style=plastic&logo=HackerRank&logoColor=94d8a8)</a>
+<a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-282C34?style=plastic&logo=LeetCode&logoColor=94d8a8)</a>
 
 
 
