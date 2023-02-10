@@ -94,13 +94,13 @@
   
 
 # 🛠️  Tools
-## 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:
+
 
 <table>
 
    <tr>
-      <th>Language</th>
-      <th>Libraries</th>
+      <th>💻 Language</th>
+      <th>📦Packages</th>
       <th>IDE/Text Editor</th>
    </tr>
    <tr>
