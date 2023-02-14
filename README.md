@@ -1,7 +1,7 @@
 <div align="center">
 
 <a id="table"></a>
-### Navigation
+### Navigation🔗
   
 
 
@@ -23,7 +23,7 @@
 
 
   
-### Contact & Social
+### Contact & Social🔗
 
 <a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-282C34?style=plastic&logo=gmail&logoColor=94d8a8)</a>
 <a href="https://www.linkedin.com/in/richardmacken/">!["https://www.linkedin.com/in/richardmacken/](https://img.shields.io/badge/LinkedIn-282C34?style=plastic&logo=linkedin&logoColor=94d8a8)</a>
