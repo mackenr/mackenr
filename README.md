@@ -344,7 +344,7 @@
 ### GitHub Stats:
   
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mackenr&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=mackenr&theme=dark&hide_border=true)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mackenr&theme=vue-dark&hide_border=true&border_radius=4.7&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=94d8a8&fire=94d8a8&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mackenr&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
  -->
 
