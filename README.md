@@ -271,14 +271,67 @@
       <td>
       <img alt="Trello" src="https://img.shields.io/badge/-Trello-1c2120?style=plastic&logo=trello&logoColor=94d8a8">
       </td>
-
-
-
-
-  </tr>
-     
+  </tr>     
 </table>
 
+
+
+<table>
+      <th>General Computing</th>
+      <th>Skill Development and Education</th>
+      <th>Project Management</th>
+  </tr> 
+   <tr>
+      <td>
+      <img alt="Microsoft" src="https://img.shields.io/badge/-Microsoft-1c2120?style=plastic&logo=microsoft&logoColor=94d8a8">
+      <img alt="Microsoft Excel" src="https://img.shields.io/badge/-Excel-1c2120?style=plastic&logo=microsoftexcel&logoColor=94d8a8">
+      <img alt="Microsoft Exchange" src="https://img.shields.io/badge/-Exchange-1c2120?style=plastic&logo=microsoftexchange&logoColor=94d8a8">
+      <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft_Office-1c2120?style=plastic&logo=microsoftoffice&logoColor=94d8a8">
+      <br></br>
+      <img alt="Microsoft OneDrive" src="https://img.shields.io/badge/-OneDrive-1c2120?style=plastic&logo=microsoftonedrive&logoColor=94d8a8">
+      <img alt="Microsoft OneNote" src="https://img.shields.io/badge/-OneNote-1c2120?style=plastic&logo=microsoftonenote&logoColor=94d8a8">
+      <img alt="Microsoft Word" src="https://img.shields.io/badge/-Word-1c2120?style=plastic&logo=microsoftword&logoColor=94d8a8">
+      <img alt="Adobe Acrobat Reader" src="https://img.shields.io/badge/-Adobe_Acrobat_Reader-1c2120?style=plastic&logo=adobeacrobatreader&logoColor=94d8a8">
+      <br></br>
+      <img alt="Google" src="https://img.shields.io/badge/-Google-1c2120?style=plastic&logo=google&logoColor=94d8a8">
+      <img alt="Google Calendar" src="https://img.shields.io/badge/-Google_Calendar-1c2120?style=plastic&logo=googlecalendar&logoColor=94d8a8">
+      <img alt="Google Maps" src="https://img.shields.io/badge/-Google_Maps-1c2120?style=plastic&logo=googlemaps&logoColor=94d8a8">
+      <img alt="Google Sheets" src="https://img.shields.io/badge/-Google_Sheets-1c2120?style=plastic&logo=googlesheets&logoColor=94d8a8">
+      <br></br>
+      <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-1c2120?style=plastic&logo=gmail&logoColor=94d8a8">
+      <img alt="Apple" src="https://img.shields.io/badge/-Apple-1c2120?style=plastic&logo=apple&logoColor=94d8a8">
+      <img alt="iCloud" src="https://img.shields.io/badge/-iCloud-1c2120?style=plastic&logo=icloud&logoColor=94d8a8">
+      <img alt="macOS" src="https://img.shields.io/badge/-macOS-1c2120?style=plastic&logo=macos&logoColor=94d8a8">
+      </td>
+      <td>
+      <img alt="YouTube" src= "https://img.shields.io/badge/-YouTube-1c2120?style=plastic&logo=youtube&logoColor=94d8a8">
+      <img alt="Towards Data Science" src= "https://img.shields.io/badge/-TDS-1c2120?style=plastic&logo=medium&logoColor=94d8a8">
+      <img alt="freeCodeCamp" src= "https://img.shields.io/badge/-freeCodeCamp-1c2120?style=plastic&logo=freecodecamp&logoColor=94d8a8">
+      <img alt="Udemy" src= "https://img.shields.io/badge/-Udemy-1c2120?style=plastic&logo=udemy&logoColor=94d8a8">
+      <br></br>
+      <img alt="GeeksforGeeks" src= "https://img.shields.io/badge/-GeeksforGeeks-1c2120?style=plastic&logo=geeksforgeeks&logoColor=94d8a8">
+      <img alt="Humble Bundle" src= "https://img.shields.io/badge/-Humble_Bundle-1c2120?style=plastic&logo=humblebundle&logoColor=94d8a8">
+      <img alt="edX" src= "https://img.shields.io/badge/-edX-1c2120?style=plastic&logo=edx&logoColor=94d8a8">
+      <img alt="OpenAI" src= "https://img.shields.io/badge/-OpenAI-1c2120?style=plastic&logo=openai&logoColor=94d8a8">
+      <br></br>
+      <img alt="Audible" src= "https://img.shields.io/badge/-Audible-1c2120?style=plastic&logo=audible&logoColor=94d8a8">
+      <img alt="Wolfram" src= "https://img.shields.io/badge/-Wolfram-1c2120?style=plastic&logo=wolfram&logoColor=94d8a8">
+      <img alt="O'Reilly" src="https://img.shields.io/badge/-O'Reilly-1c2120?style=plastic&logo=oreilly&logoColor=94d8a8">
+      <img alt="Khan Academy" src= "https://img.shields.io/badge/-Khan_Academy-1c2120?style=plastic&logo=khanacademy&logoColor=94d8a8">
+      <br></br>
+      <img alt="Kaggle" src= "https://img.shields.io/badge/-Kaggle-1c2120?style=plastic&logo=kaggle&logoColor=94d8a8">
+      <img alt="Wikipedia" src= "https://img.shields.io/badge/-Wikipedia-1c2120?style=plastic&logo=wikipedia&logoColor=94d8a8">
+      <img alt="Byju's" src="https://img.shields.io/badge/-Byju's-1c2120?style=plastic&logo=byjus&logoColor=94d8a8">
+      <img alt="DataCamp" src= "https://img.shields.io/badge/-DataCamp-1c2120?style=plastic&logo=datacamp&logoColor=94d8a8">
+      <br></br>
+      <img alt="Coursera" src= "https://img.shields.io/badge/-Coursera-1c2120?style=plastic&logo=coursera&logoColor=94d8a8">
+      <img alt="The Algorithms" src= "https://img.shields.io/badge/-The_Algorithms-1c2120?style=plastic&logo=thealgorithms&logoColor=94d8a8">
+      </td>
+      <td>
+      <img alt="Trello" src="https://img.shields.io/badge/-Trello-1c2120?style=plastic&logo=trello&logoColor=94d8a8">
+      </td>
+  </tr>     
+</table>
 
 
 
