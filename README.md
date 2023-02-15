@@ -2,7 +2,7 @@
   
   
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&size=55&duration=5002&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1049&lines=Hello+my+name+is+Richard;I+love+Data!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&size=50&duration=5002&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1049&lines=Hello+my+name+is+Richard;I+love+Data!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>  
 
 
 <a name="home"></a>
@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-282C34?style=plastic&logo=HackerRank&logoColor=94d8a8)</a>
 <a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-282C34?style=plastic&logo=LeetCode&logoColor=94d8a8)</a>
 
-<a href="https://github.com/mackenr/"><img alt="Richard" src="https://img.shields.io/github/followers/mackenr?label=Follow Rich&style=social" /></a>
+<a href="https://github.com/mackenr/"><img alt="Richard" src="https://img.shields.io/github/followers/mackenr?label=Follow Rich&style=social&logoColor=94d8a8" /></a>
 ---
 <a name="bio"></a>
 
