@@ -259,7 +259,7 @@
 
 
 
-<img src="https://github-readme-linkedin-1a9s-git-master-mackenr.vercel.app/skills?username=richardmacken"/>
+<img src="[https://github-readme-linkedin-1a9s-git-master-mackenr.vercel.app]/skills?username=[richardmacken]"/>
   
   
   
