@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-282C34?style=plastic&logo=HackerRank&logoColor=94d8a8)</a>
 <a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-282C34?style=plastic&logo=LeetCode&logoColor=94d8a8)</a>
 
-<a href="https://github.com/mackenr/"><img alt="Richard" src="https://img.shields.io/github/followers/mackenr?label=Follow Rich&style=social&logoColor=94d8a8&labelColor=282C34&color=282C34" /></a>
+<a href="https://github.com/mackenr/"><img alt="Richard" src="https://img.shields.io/github/followers/mackenr?label=Follow Rich&style=social-282C34&logoColor=94d8a8&labelColor=282C34&color=282C34" /></a>
 ---
 <a name="bio"></a>
 
