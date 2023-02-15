@@ -6,6 +6,7 @@
 
 
 <a name="home"></a>
+  
 ## Navigation
 [`Bio`](#bio)
 [`Portfolio`](#repos)
