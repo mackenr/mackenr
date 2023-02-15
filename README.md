@@ -5,18 +5,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&size=55&duration=5002&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1049&lines=Hello+my+name+is+Richard;I+love+Data!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>  
 
 <a id="table"></a>
-### Navigation
-🔗
-  
-
-
-
 <a name="home"></a>
-[`Bio`](#bio)
-[`Portfolio`](#repos)
-[`Data Related Interests`](#data_interests)
-[`Technical skills`](#technical_skills)
-[`Hobbies`](#hobbies)
+|### Navigatio|
+|---|
+|[`Bio`](#bio)[`Portfolio`](#repos)[`Data Related Interests`](#data_interests)[`Technical skills`](#technical_skills)[`Hobbies`](#hobbies)|
 
 ---
   
@@ -29,7 +21,7 @@
 
   
 ### Contact & Social
-🔗
+
 
 <a href="mailto:richard.c.macken@gmail.com">![richard.c.macken@gmail.com](https://img.shields.io/badge/Gmail-282C34?style=plastic&logo=gmail&logoColor=94d8a8)</a>
 <a href="https://www.linkedin.com/in/richardmacken/">!["https://www.linkedin.com/in/richardmacken/](https://img.shields.io/badge/LinkedIn-282C34?style=plastic&logo=linkedin&logoColor=94d8a8)</a>
