@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/richard_c_macken">![HackerRank](https://img.shields.io/badge/-Hackerrank-282C34?style=plastic&logo=HackerRank&logoColor=94d8a8)</a>
 <a href="https://leetcode.com/user9493eU/">![LeetCode](https://img.shields.io/badge/LeetCode-282C34?style=plastic&logo=LeetCode&logoColor=94d8a8)</a>
 
-<a href="https://github.com/mackenr/"><img alt="Richard" src="https://img.shields.io/github/followers/mackenr?label=Follow Rich&style=social&logoColor=94d8a8" /></a>
+<a href="https://github.com/mackenr/"><img alt="Richard" src="https://img.shields.io/github/followers/mackenr?label=Follow Rich&style=social&logoColor=94d8a8&labelColor=282C34" /></a>
 ---
 <a name="bio"></a>
 
@@ -67,35 +67,7 @@
 <img width="1049" alt="skills" src="https://github.com/mackenr/mackenr/blob/main/skills.png">
   
   
-<!-- <img height="40" width="40" src="https://cdn.simpleicons.org/python/white" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/white" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/pytorch/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/pandas/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/markdown/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/mapbox/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/plotly/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/scipy/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/scikitlearn/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/selenium/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/spacy/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/Homebrew/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/numpy/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/sympy/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/keras/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/sympy/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/LaTeX/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/apachespark/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/tableau/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/jupyter/white"/> -->
-<!-- <img height="40" width="40" src="https://cdn.simpleicons.org/overleaf/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/slack/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/discord/white"/> -->
-<!-- <img height="40" width="40" src="https://cdn.simpleicons.org/anaconda/white"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/PyPI/white"/>
-   -->
-  
+
 
 ### 🛠️  Tools
 
