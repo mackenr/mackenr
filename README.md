@@ -6,7 +6,7 @@
 
 <a id="table"></a>
 <a name="home"></a>
-|### Navigatio|
+| Navigation|
 |---|
 |[`Bio`](#bio)[`Portfolio`](#repos)[`Data Related Interests`](#data_interests)[`Technical skills`](#technical_skills)[`Hobbies`](#hobbies)|
 
