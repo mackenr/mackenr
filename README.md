@@ -6,8 +6,10 @@
 
 
 <a name="home"></a>
+
+---
   
-## Navigation
+### Navigation
 [`Bio`](#bio)
 [`Portfolio`](#repos)
 [`Data Related Interests`](#data_interests)
@@ -96,7 +98,7 @@
    -->
   
 
-# 🛠️  Tools
+### 🛠️  Tools
 
 
 <table>
