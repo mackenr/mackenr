@@ -7,7 +7,6 @@
 <a id="table"></a>
 <a name="home"></a>
 ## Navigation
-
 [`Bio`](#bio)
 [`Portfolio`](#repos)
 [`Data Related Interests`](#data_interests)
